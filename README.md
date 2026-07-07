@@ -24,7 +24,6 @@ Mỗi agent có thể sử dụng một trong **12 thuật toán AI** khác nhau
 ---
 
 ## Yêu cầu hệ thống
-<img width="939" height="928" alt="Animation14" src="https://github.com/user-attachments/assets/be2cb928-aee4-4a11-a23f-b6a7572a4e01" />
 
 | Thành phần | Yêu cầu |
 |---|---|
