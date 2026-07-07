@@ -1,3 +1,4 @@
+<img width="939" height="928" alt="Animation14" src="https://github.com/user-attachments/assets/be2cb928-aee4-4a11-a23f-b6a7572a4e01" />
 # AI Hunter vs Runner
 
 Trò chơi mô phỏng truy bắt trên lưới (grid) giữa hai phe đối kháng:
